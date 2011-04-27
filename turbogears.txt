@@ -1,0 +1,3 @@
+
+How to use Eclipse + PyDev with TG2
+http://old.nabble.com/How-to-use-Eclipse-%2B-PyDev-with-TG2-td25332925.html

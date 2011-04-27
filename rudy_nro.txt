@@ -1,0 +1,38 @@
+0961851169
+
+Patrones de Disenho: info.
+
+http://msdn.microsoft.com/en-us/architecture/cc505974.aspx
+http://nbortolotti.blogspot.com/search?q=Patrones+de+Dise%C3%B1o
+http://nbortolotti.blogspot.com/search/label/Patrones
+http://nbortolotti.blogspot.com/search?q=Patrones+de+Dise%C3%B1o
+http://enemasuno.blogspot.com/2007/11/builder-patrn-de-diseo.html
+http://www.taringa.net/posts/ebooks-tutoriales/4742863/Patrones-Gof_-apuntes-y-videos.html
+
+
+
+instalar TurboGears.
+
+$ sudo aptitude install build-essential python-dev python-setuptools python-virtualenv
+$ virtualenv --no-site-packages -p python2.6 tg2env
+$ cd tg2env/
+$ source bin/activate
+
+$ pip install -E tg2env -i http://www.turbogears.org/2.1/downloads/current/index tg.devtools
+
+(tg2env)$ easy_install -i http://www.turbogears.org/2.1/downloads/current/index tg.devtools
+
+Utilizar cualquiera de las opciones anteriores
+(tg2env)$ paster quickstart example
+(tg2env)$ cd example/
+(tg2env)$ python setup.py develop
+(tg2env)$ nosetests
+(tg2env)$ paster setup-app development.ini
+(tg2env)$ paster serve development.ini
+(tg2env)$ deactivate
+
+http://turbogears.org/2.1/docs/main/DownloadInstall.html
+http://kvdb.net/blog/turbogears-2-eclipse-pydev/
+
+intalar pydev
+http://daniescribe.wordpress.com/2010/03/19/como-instalar-pydev-en-eclipse/
