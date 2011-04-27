@@ -1,8 +1,0 @@
-proyecto levantado.
-
-uri:git@github.com:rquintana/sd_sockets.git
-host:github.com
-repository path: rquintana/sd_sockets.git
-
-user:rquintana
-pass:rquintana3766348
