@@ -36,3 +36,5 @@ http://kvdb.net/blog/turbogears-2-eclipse-pydev/
 
 intalar pydev
 http://daniescribe.wordpress.com/2010/03/19/como-instalar-pydev-en-eclipse/
+
+yo modifique nkey
