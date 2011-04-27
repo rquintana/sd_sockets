@@ -29,3 +29,5 @@ tipo_item_usuario_valores
 tipo_relacion 
 usuario
 usuario_rol
+
+modificado por el usuario rudy
